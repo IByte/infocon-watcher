@@ -6,8 +6,8 @@ Infocon Watcher
 
 _Data security news straight to your desktop!_
 
-This application displays the current Infocon on-line threat level, as determined by the https://isc.sans.edu/ SANS Internet Storm Center (ISC). The Infocon is a colour-coded assessment of the current condition of data security and connectivity of the Internet infrastructure. Also available are the latest data security headlines from ISC (tips, tricks and current state of affairs, mostly intended for data security professionals).
-The levels that can be displayed are: Green, Yellow, Orange, Red, Test (blue) or Unknown (error, grey). For a more detailed description of the Infocon levels and how it is determined, see https://isc.sans.edu/infocon.html the Infocon page at ISC.
+This application displays the current Infocon on-line threat level, as determined by the [SANS Internet Storm Center (ISC)](https://isc.sans.edu/). The Infocon is a colour-coded assessment of the current condition of data security and connectivity of the Internet infrastructure. Also available are the latest data security headlines from ISC (tips, tricks and current state of affairs, mostly intended for data security professionals).
+The levels that can be displayed are: Green, Yellow, Orange, Red, Test (blue) or Unknown (error, grey). For a more detailed description of the Infocon levels and how it is determined, see the [Infocon page](https://isc.sans.edu/infocon.html) at ISC.
 
 
 
@@ -42,7 +42,7 @@ The application always minimises to the system tray. Click the tray icon or choo
 Quit
 Terminates the application and removes it from the system tray.
 
-The Raspbian version of Infocon Watcher depends on the command line tool https://curl.haxx.se/ cURL (install package http://mirrordirector.raspbian.org/raspbian/pool/main/c/curl/ "curl" using your package manager). Tested on Raspberry Pi 3B.
+The Raspbian version of Infocon Watcher depends on the command line tool [cURL](https://curl.haxx.se/) (install package ["curl"](http://mirrordirector.raspbian.org/raspbian/pool/main/c/curl/) using your package manager). Tested on Raspberry Pi 3B.
 
 (C) 2021 VDT Software
 
